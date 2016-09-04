@@ -10,3 +10,5 @@ http://www.lmfdb.org/NumberField/QuadraticImaginaryClassGroups
 
 main.c is for the combination of the Cohen-Lenstra Heuristic and the Ankeny-Artin-Chowla conjecture with small prime set.
 aacD.c is to look for counterexamples of the Ankeny-Artin-Chowla conjecture for selected D with p in a range.
+
+More descriptions can be found in FRQO.pdf
