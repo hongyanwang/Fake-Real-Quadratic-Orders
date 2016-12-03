@@ -8,6 +8,6 @@ The computation is based on Mosunov's data:
 class numbers of imaginary quadratic fields with fundamental discriminants up to 2^40
 http://www.lmfdb.org/NumberField/QuadraticImaginaryClassGroups
 
-main.c is for the test of the Cohen-Lenstra Heuristics and the Ankeny-Artin-Chowla conjecture with a fixed prime number set.
+main.c is for the test of the Cohen-Lenstra Heuristics and the Ankeny-Artin-Chowla conjecture with a set of prime number.
 
 More descriptions can be found in FRQO.pdf
