@@ -1,3 +1,5 @@
 This folder contains counterexamples for the p-Ankeny-Artin-Chowla conjecture.
 
 File largeD contains three counterexamples for extremely large discriminants.
+
+File index-n contains counterexamples for n*2^28< |D| <(n+1)*2^28 with p<30000.
